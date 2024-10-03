@@ -31,7 +31,7 @@ We believe in:
 
 We welcome collaboration with researchers, institutions, and industry partners. To learn more about our current projects or partnership opportunities, please visit our website or [contact](https://innovairv.com/en/contact/) us directly.
 
-Email: [mailto:info@innovairv.com]
+Email: [info@innovairv.com](mailto:info@innovairv.com)
 
 ---
 
