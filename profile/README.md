@@ -1,4 +1,4 @@
-# 🚀 INNOVA IRV Institute of Innovation
+# INNOVA IRV Institute of Innovation
 
 ## 🌟 About Us
 
@@ -16,17 +16,11 @@ Our primary areas of innovation include:
 
 4. **Advanced Communications** 📡: Creating cutting-edge communication technologies for seamless, high-speed connectivity.
 
+These core areas support applications across sectors such as: **Food-Tech**, **Aerospace**, **Digital Health**, **Circular Economy**, **Connected Vehicle**, and **Industry 4.0**.
+
 <div align=center>
   <img src="./FIRVI_core_areas.png" alt="Core Areas of Focus" width="600"/>
 </div>
-
-These core areas support applications across sectors such as:
-
-- **Food Tech** 🍲: Innovating in food technology to enhance sustainability and production.
-
-- **Circular Economy** 🔄: Promoting sustainable practices and resource efficiency.
-
-- **Aerospace** 🚀: Developing solutions to support the growing demands of the aerospace industry.
 
 ## 🎯 Our Objectives
 
